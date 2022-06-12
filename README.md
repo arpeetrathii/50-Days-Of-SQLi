@@ -13,7 +13,8 @@ My plans (For Learning - 2hrs every single day):
 - [ ] Complete/Read writeups of HackTheBox, Root-me labs
 - [ ] Read the book : SQL Injection Attack and Defense
 - [ ] Read writeups/vlogs related to SQL injection
-- [ ] Do labs from  
+- [ ] Do other labs (from Github)
+
 My plans(For hunting - 2hrs atleast daily from the day I feel like):
 - [ ]  Will select certain programs
 - [ ]  Hunt each and every parameter of those
