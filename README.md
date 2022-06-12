@@ -20,5 +20,5 @@ My plans(For hunting - 2hrs atleast daily from the day I feel like):
 
 #
 
-Lets see how it goes, if I am able to find any bugs or not!
+Lets see how it goes, if I am able to find any bugs or not! :) 
 
