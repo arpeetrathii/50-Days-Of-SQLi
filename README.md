@@ -15,6 +15,8 @@ My plans For Learning (2hrs every single day):
 - [ ] Read writeups/vlogs related to SQL injection
 - [ ] Do other labs (from Github)
 
+#
+
 My plans For hunting (2hrs atleast daily from the day I feel like):
 - [ ]  Will select certain programs
 - [ ]  Hunt each and every parameter of those
