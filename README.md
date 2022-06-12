@@ -7,13 +7,13 @@ I have always struggled as a bug hunter. I am not able to finding quality bugs. 
 # 
 
 My plans (For Learning - 2hrs every single day):
-- [ ] Complete SQL injection section from WAHH-v2
+- [ ] Complete SQL injection section from WAHH-v2, Real World Bug Hunting, Bug Bounty Bootcamp
 - [ ] Complete all labs from Portswigger SQLi labs
-- [ ]  Complete all SQLi labs from TryHackMe 
-- [ ]  Complete/Read writeups of HackTheBox, Root-me labs
-- [ ]  Read the book : SQL Injection Attack and Defense
-- [ ]  Read writeups/vlogs related to SQL injection
-
+- [ ] Complete all SQLi labs from TryHackMe 
+- [ ] Complete/Read writeups of HackTheBox, Root-me labs
+- [ ] Read the book : SQL Injection Attack and Defense
+- [ ] Read writeups/vlogs related to SQL injection
+- [ ] Do labs from  
 My plans(For hunting - 2hrs atleast daily from the day I feel like):
 - [ ]  Will select certain programs
 - [ ]  Hunt each and every parameter of those
