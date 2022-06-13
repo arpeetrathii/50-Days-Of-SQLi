@@ -14,7 +14,7 @@ My plans For Learning (2hrs every single day):
 - [ ] Read the book : SQL Injection Attack and Defense
 - [ ] Read writeups/vlogs related to SQL injection
 - [ ] Do other labs (from Github)
-- [ ] Learn various tools to automate and implement into workflow/methodology
+- [ ] Learn various relevant tools for SQLi (SQLMap, Nosqlmap etc) to automate and implement into workflow/methodology
 #
 
 My plans For hunting (2hrs atleast daily from the day I feel like):
