@@ -1,6 +1,7 @@
 # DAY 3
 * [ ] Completed all the labs from Portswigger labs (Lab 11-18) : https://portswigger.net/web-security/all-labs#sql-injection 
-* [ ] Started reading SQL Injection Attacks and Defense : Till Page no. : 
+* [ ] Started reading SQL Injection Attacks and Defense : Till Page no. : 70
+* [ ] Completed SQLi lab from TryHackme : https://tryhackme.com/room/sqlilab
 * [ ] Read blogs : 
   *  https://securityidiots.com/Web-Pentest/SQL-Injection/MSSQL/mssql-dios.html
   *  https://securityidiots.com/Web-Pentest/SQL-Injection/database-type-testing-sql-injection.html
@@ -11,3 +12,5 @@
   *  https://securityidiots.com/Web-Pentest/SQL-Injection/mssql-out-of-band-exploitation.html
   *  https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716
   *  https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4
+  *  https://hackerone.com/reports/273946
+  *  https://medium.com/@frostnull/sql-injection-through-user-agent-44a1150f6888
