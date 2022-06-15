@@ -1,6 +1,6 @@
 # DAY 3
 * [ ] Completed all the labs from Portswigger labs (Lab 11-18) : https://portswigger.net/web-security/all-labs#sql-injection 
-* [ ] Started reading SQL Injection Attacks and Defense : Till Page no. : 50
+* [ ] Started reading SQL Injection Attacks and Defense : Till Page no. : 60
 * [ ] Completed SQLi lab from TryHackme : https://tryhackme.com/room/sqlilab
 * [ ] Read blogs : 
   *  https://securityidiots.com/Web-Pentest/SQL-Injection/MSSQL/mssql-dios.html
