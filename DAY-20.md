@@ -1,4 +1,5 @@
 DAY 20 
+
 Most of time went to learn to bypass filters so that I can learn to bypass common filters (Whitelisting, Blacklisting, WAF based)
 * [ ] Read few blogs and learnt about payload : 
   - https://portswigger.net/support/sql-injection-bypassing-common-filters
